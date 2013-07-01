@@ -3,7 +3,7 @@ Mini Personal Reader
 
 A minimal feed reader built with zRSSFedd. Feel free to use as you want.
 
-Thanks for using it, and visit my profile page.
+Thanks for using it, and visiting my profile page.
 
 ## Links:
 
