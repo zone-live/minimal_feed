@@ -1,47 +1,46 @@
-
 body {
-	background-color: #474750;
+background-color: #474750;
 }
 body,
 h1, h2, h3, h4, h5, h6, 
 p, a {
-	font-family: 'Source Sans Pro', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
 }
 
 a {
-	text-decoration: none;
+text-decoration: none;
 }
 
 li {
-	list-style: none
+list-style: none
 }
 
 .menu {
-	background-color: #5790e5;
-	float: left;
-	top: 0;
-	left: 0;
-	height: 100%;
-	width: 90px;
-	position: fixed;
+background-color: #5790e5;
+float: left;
+top: 0;
+left: 0;
+height: 100%;
+width: 90px;
+position: fixed;
 }
 
 .feed {
-	width: 85%;
-	margin: 20px 0 20px 20px;
+width: 85%;
+margin: 20px 0 20px 20px;
 }
 .container {
-	margin-left: 90px;
-	padding-left: 20px;
-	width: 535px;
-	float: left;
-	background-color: #FCFCFC;
+margin-left: 90px;
+padding-left: 20px;
+width: 535px;
+float: left;
+background-color: #FCFCFC;
 }
 #test {
-	width: 515px;
+width: 515px;
 }
 .rssHeader {
-	margin: 10px 0 20px 0;
+margin: 10px 0 20px 0;
 }
 .refresh {margin-left: 15px;}
 .rssHeader a {
@@ -51,12 +50,12 @@ color: #3D3B49;
 margin: 25px;
 }
 li.rssRow {
-	margin: 20px 0;
+margin: 20px 0;
 border-bottom: 1px solid #F0F0F0;
 }
 li.rssRow div { color: #3D3B49; }
 .avatar {
-border: 5px solid #ABC8F2;
+border: 5px solid #4B4B4B;
 width: 65px;
 float: left;
 margin: 15px 0 20px 6px;
